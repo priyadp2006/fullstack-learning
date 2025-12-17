@@ -1,0 +1,32 @@
+/* CSS Day 1 - Basics */
+
+body {
+    background-color: #f4f6f8;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+p {
+    color: #555;
+    font-size: 16px;
+}
+
+ul {
+    background-color: white;
+    padding: 15px;
+    border: 2px solid #2c3e50;
+    border-radius: 8px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
